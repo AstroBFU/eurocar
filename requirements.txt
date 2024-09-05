@@ -1,8 +1,0 @@
-gunicorn
-Flask
-werkzeug
-sslcrypto
-pyTelegramBotAPI
-datetime
-tg-logger
-pytz
